@@ -1,0 +1,36 @@
+.div{
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	flex-direction: row;
+}
+.pad{
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+}
+.home{
+	padding:20px;
+	background-color:pink;
+	
+}
+.p1{
+	padding-right: 195px;
+}
+.p2{
+	padding-right: 180px;
+}
+.div1{
+			background-color: #fefbd8;
+			height: 30px;
+			text-align: center;
+	}
+.bot{
+	background-color: gray;
+	padding: 30px;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+.size{
+	font-size: 70px;
+}

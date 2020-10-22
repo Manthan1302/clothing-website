@@ -1,0 +1,26 @@
+.div{
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	flex-direction: row;
+}
+.foot{
+	padding: 20px;
+	background-color: #eef;
+}
+.p{
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+}
+.p1{
+	padding-right: 150px;
+}
+.p2{
+	padding-right: 130px;
+}
+.div1{
+			background-color: #fefbd8;
+			height: 30px;
+			text-align: center;
+	}

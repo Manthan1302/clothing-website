@@ -1,0 +1,43 @@
+.body{
+	background-image:url('female.jpg');
+	background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover; 
+	
+
+}
+.div{
+	display: flex;
+	
+}
+.side {
+	background-color: lightpink;
+	flex: 30%;
+	padding: 20px;
+	font-size: 25px;
+}
+
+.right{
+	flex:70%;
+	background-color: lightpink;
+	padding: 20px;
+	display: flex;
+	justify-content: flex-end;
+	flex-wrap: wrap;
+	flex-direction: row;
+}
+.pad{
+
+	padding:5px;
+	
+}
+
+
+.div1{
+			background-color: #fefbd8;
+			height: 30px;
+			text-align: center;
+	}
+span:hover{
+	background-color: deeppink;
+}
